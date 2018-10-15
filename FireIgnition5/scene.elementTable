@@ -9,4 +9,5 @@
  <element id="7" elementName="FireColor1" elementFolder="FireColor1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="8" elementName="FireColor2" elementFolder="FireColor2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="10" elementName="TorchSketch2" elementFolder="TorchSketch2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="12" elementName="Background1" elementFolder="Background1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>

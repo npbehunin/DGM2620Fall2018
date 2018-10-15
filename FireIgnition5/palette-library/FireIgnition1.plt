@@ -1,5 +1,5 @@
 ToonBoomAnimationInc PaletteFile 2
-Solid    Black                      0x0950770ce9700a14   0   0   0 255
+Solid    Black                      0x0950770ce9700a14  86  86  86 255
 Solid    White                      0x0950770ce9700a16 255 255 255 255
 Solid    Red                        0x0950770ce9700a18 255   0   0 255
 Solid    Green                      0x0950770ce9700a1a   0 255   0 255
