@@ -65,3 +65,6 @@ sysinfo.txt
 *.unitypackage
 
 *.DS_Store
+FireIgnition5/frames/
+
+WaterSplash8/frames/
