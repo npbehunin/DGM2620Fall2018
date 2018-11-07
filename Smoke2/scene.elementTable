@@ -8,4 +8,5 @@
  <element id="11" elementName="ColorTest1" elementFolder="ColorTest1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="12" elementName="Color1" elementFolder="Color1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="13" elementName="Color2" elementFolder="Color2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="14" elementName="SmokeStartLine" elementFolder="SmokeStartLine" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
